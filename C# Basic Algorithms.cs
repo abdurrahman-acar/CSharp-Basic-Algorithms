@@ -1,4 +1,4 @@
-6////Taksimetre hesaplama örneği
+////Taksimetre hesaplama örneği
 
 double tl = 13.20;
 Console.WriteLine("Kaç KM yol gideceksiniz");
